@@ -1,0 +1,13 @@
+langchain
+langchain-google-genai
+langchain-pinecone
+langchain-community
+langgraph
+pinecone-client
+pypdf
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+streamlit
+tiktoken
